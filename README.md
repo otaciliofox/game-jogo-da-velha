@@ -13,5 +13,7 @@
 
 
 <div align="center">
-  <img src="./imagens/page.png" alt="page screenshot" width="900"> 
+  <img src="./imagens/page1.png" alt="page screenshot" width="300"> 
+    <img src="./imagens/page2.png" alt="page screenshot" width="300"> 
+    <img src="./imagens/page3.png" alt="page screenshot" width="300"> 
 </div>
