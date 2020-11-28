@@ -2,7 +2,7 @@
   Jogo da Velha
 </h1>
 
-<p align="center">Jogo da velha em html e javascript</p>
+<p align="center">jogo da velha, utilizando somente HTML para estruturar nosso site, CSS para estilizar e dar vida a ele, e Javascript para criarmos toda suas interações, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT" >
